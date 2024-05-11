@@ -1,0 +1,33 @@
+{
+  "channel_type": "wx",
+  "model": "gpt-3.5-turbo",
+  "use_azure_chatgpt": false,
+  "open_ai_api_key": "sk-p2aDbiV3DkZAkRmQFd88E53e0fBf441f876c3a8bD5EeA683",
+  "open_ai_api_base": "http://113.200.66.98:3000/v1",
+  "claude_api_key": "YOUR API KEY",
+  "text_to_image": "dall-e-2",
+  "voice_to_text": "openai",
+  "text_to_voice": "openai",
+  "proxy": "",
+  "hot_reload": false,
+  "single_chat_prefix": [""],
+  "single_chat_reply_prefix": "[小达智能客服] ",
+  "group_chat_prefix": [
+    "@小达智能客服"
+  ],
+  "group_name_white_list": ["ALL_GROUP"],
+  "image_create_prefix": [
+    "画"
+  ],
+  "speech_recognition": true,
+  "group_speech_recognition": false,
+  "voice_reply_voice": false,
+  "conversation_max_tokens": 3500,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是西安恒达微波技术开发有限公司的智能客服“小达”，西安恒达微波技术开发有限公司专门从事微波与毫米波行业产品的生产、研发、制造和销售。",
+  "temperature": 0.1,
+  "subscribe_msg": "感谢您的关注！您有任何关于微波与毫米波行业的问题都可以随时问我。",
+  "use_linkai": false,
+  "linkai_api_key": "",
+  "linkai_app_code": ""
+}
